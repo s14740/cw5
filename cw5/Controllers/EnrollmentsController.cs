@@ -5,12 +5,12 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Wyklad5.DTOs.Requests;
-using Wyklad5.DTOs.Responses;
-using Wyklad5.Models;
-using Wyklad5.Services;
+using cw5.DTOs.Requests;
+using cw5.DTOs.Responses;
+using cw5.Models;
+using cw5.Services;
 
-namespace Wyklad5.Controllers
+namespace cw5.Controllers
 {
     [Route("api/enrollments")]
     [ApiController] 
