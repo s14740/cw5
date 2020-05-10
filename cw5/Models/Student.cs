@@ -11,11 +11,9 @@ namespace Wyklad5.Models
         public string FirstName { get; set; }
         public string  LastName { get; set; }
         public DateTime Birthdate { get; set; }
-        //prop + tabx2
+        
         public string Studies { get; set; }
         public int Semester { get; set; }
 
-        //...
-        //...
     }
 }
