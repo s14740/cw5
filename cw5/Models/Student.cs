@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Wyklad5.Models
+namespace cw5.Models
 {
     public class Student
     {
