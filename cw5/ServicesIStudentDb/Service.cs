@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Wyklad5.DTOs.Requests;
+using cw5.DTOs.Requests;
 
-namespace Wyklad5.Services
+namespace cw5.Services
 {
     public interface IStudentDbService
     {
