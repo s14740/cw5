@@ -29,15 +29,12 @@ namespace Wyklad5.Controllers
         {
             _service.EnrollStudent(request);
             var response = new EnrollStudentResponse();
-            //response.LastName = st.LastName;
-            //...
+            
 
             return Ok(response);
         }
 
-        //..
-
-        //..
+       
 
 
     }
