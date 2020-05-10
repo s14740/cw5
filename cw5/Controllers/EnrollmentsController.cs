@@ -13,7 +13,7 @@ using Wyklad5.Services;
 namespace Wyklad5.Controllers
 {
     [Route("api/enrollments")]
-    [ApiController] //-> implicit model validation
+    [ApiController] 
     public class EnrollmentsController : ControllerBase
     {
         private IStudentDbService _service;
